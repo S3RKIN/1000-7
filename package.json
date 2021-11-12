@@ -1,0 +1,24 @@
+{
+  "name": "1000-7",
+  "version": "1.1.1",
+  "description": "Dead inside (1000-7)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"tsc 1000-7.ts && node 1000-7.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S3RKIN/1000-7.git"
+  },
+  "keywords": [
+    "dead",
+    "inside"
+  ],
+  "author": "S3RKIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S3RKIN/1000-7/issues"
+  },
+  "homepage": "https://github.com/S3RKIN/1000-7#readme"
+}
